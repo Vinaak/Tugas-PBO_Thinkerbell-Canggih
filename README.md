@@ -30,6 +30,7 @@
 ![menuPaket](https://user-images.githubusercontent.com/87349653/128623888-447c9738-5f14-4c7c-a813-af3018d69827.PNG)
 ![Paket](https://user-images.githubusercontent.com/87349653/128623889-b0ba4b2c-35a4-4deb-ab29-4aa339eb7f22.PNG)
 ![payment](https://user-images.githubusercontent.com/87349653/128623890-e063a73c-4de0-4190-94ae-ed069603b8a0.PNG)
+.
 
 
 
