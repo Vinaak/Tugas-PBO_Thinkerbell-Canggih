@@ -16,5 +16,5 @@
 # Penjelasan program
 - Aplikasi thingker adalah aplikasi pemesanan wedding online. Aplikasi ini menyediakan menu searching untuk mencari WO di daerah tertentu dan fitur pembayaran DP untuk user.
 
-#Screenshoot Porgram
-https://github.com/Vinaak/Tugas-PBO_Thinkerbell-Canggih/blob/master/2021-02-08%20(324).png
+# Screenshot running program
+-https://github.com/Vinaak/Tugas-PBO_Thinkerbell-Canggih/blob/master/2021-02-08%20(324).png
